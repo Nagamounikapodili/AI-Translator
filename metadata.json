@@ -1,0 +1,5 @@
+{
+  "name": "Mounika the AI Translator",
+  "description": "A real-time AI-powered language translator chatbot that supports multiple languages.",
+  "requestFramePermissions": ["microphone"]
+}
